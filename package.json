@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "multer": "^1.4.4",
+    "sqlite": "^4.0.25",
+    "sqlite3": "^5.0.2"
+  },
+  "name": "hw4-yipper-ewchen",
+  "description": "*Special thanks to Tal Wolman for the original version of this assignment and to Robert Thompson for the original concept behind this assignment.*",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.cs.washington.edu:cse154-22wi-students/hw4-yipper-ewchen.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
